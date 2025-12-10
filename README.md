@@ -122,7 +122,7 @@ urlpatterns = [
 ## OUTPUT - SERVER SIDE:
 ![alt text](<Screenshot 2025-12-10 213248.png>)
 ## OUTPUT - WEBPAGE:
-![alt text](<Screenshot 2025-12-10 212648-1.png>)
+![alt text](<Screenshot 2025-12-10 212648.png>)
 
 ## RESULT:
 The a web page to calculate vehicle mileage and fuel efficiency using server-side scripts is created successfully.
